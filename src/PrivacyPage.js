@@ -12,7 +12,7 @@ function PrivacyPage() {
     </div>
 
     <header className="App-footer">
-      <Link  to={{pathname: '/'}}>Mistberry</Link>
+      <Link  to={{pathname: '/'}}>Mindberry</Link>
       <a href="mailto:leaveylabs@gmail.com" target="_blank" rel="noopener noreferrer" > Email us </a>
     </header>
   </div>

@@ -15,7 +15,7 @@ function LandingPage() {
           Mindfulness interruptions during prolonged screen use
         </h4>
         <a
-          href="https://apple.com"
+          href="https://apps.apple.com/us/app/mindberry/id6444199915"
           target="_blank"
           rel="noopener noreferrer"
         >
